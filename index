@@ -116,6 +116,11 @@ https://stackoverflow.com/questions/5793214/creating-programming-code-box-on-my-
         </code>
       </div> <br />
     </ul>
+    <code>
+    <ul>
+ gitk -all : is a command line utility to run git command under multiple git repositories concurrently.<br>
+ </ul>
+</code>
     <ul>
       <li><strong>git diff --staged</strong></li><br />
       Diffing is a function that takes two input data sets and outputs the changes between them. git diff is a multi-use Git command that when executed runs a diff function on Git data sources.When invoked, this command will compare all the differences of the file against the index file. <br />
